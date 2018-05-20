@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="MaterialDesign-1.4">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/c4412e5c5921e04edd28af490b551957789bb8a1/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/c4412e5c5921e04edd28af490b551957789bb8a1/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.navasmdc/MaterialDesign/1.4/dce78536200a79054216d7d26a7c9becca70cd56/MaterialDesign-1.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

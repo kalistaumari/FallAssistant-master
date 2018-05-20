@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v20\\values-v20.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endLine": 3,
+                    "endColumn": 12,
+                    "endOffset": 194
+                },
+                "from": {
+                    "file": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\src\\main\\res\\values-v20\\styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 718,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 814
+                    }
+                }
+            }
+        ]
+    }
+]

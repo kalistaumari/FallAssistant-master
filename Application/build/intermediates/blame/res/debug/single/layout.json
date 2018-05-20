@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\calista\\.android\\build-cache\\60637e3bbc11d02cdc5f5d17e8a90b33be949cdf\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\calista\\.android\\build-cache\\60637e3bbc11d02cdc5f5d17e8a90b33be949cdf\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\help2.xml",
+        "source": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\src\\main\\res\\layout\\help2.xml"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\calista\\.android\\build-cache\\60637e3bbc11d02cdc5f5d17e8a90b33be949cdf\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\calista\\.android\\build-cache\\60637e3bbc11d02cdc5f5d17e8a90b33be949cdf\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\sample_dashboard_item.xml",
+        "source": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\src\\main\\res\\layout\\sample_dashboard_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\calista\\.android\\build-cache\\60637e3bbc11d02cdc5f5d17e8a90b33be949cdf\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\calista\\.android\\build-cache\\60637e3bbc11d02cdc5f5d17e8a90b33be949cdf\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\calista\\.android\\build-cache\\60637e3bbc11d02cdc5f5d17e8a90b33be949cdf\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "C:\\Users\\calista\\.android\\build-cache\\60637e3bbc11d02cdc5f5d17e8a90b33be949cdf\\output\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\calista\\.android\\build-cache\\60637e3bbc11d02cdc5f5d17e8a90b33be949cdf\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_list_item.xml",
+        "source": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\src\\main\\res\\layout\\drawer_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\calista\\.android\\build-cache\\60637e3bbc11d02cdc5f5d17e8a90b33be949cdf\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\calista\\.android\\build-cache\\60637e3bbc11d02cdc5f5d17e8a90b33be949cdf\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\calista\\.android\\build-cache\\60637e3bbc11d02cdc5f5d17e8a90b33be949cdf\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\calista\\.android\\build-cache\\60637e3bbc11d02cdc5f5d17e8a90b33be949cdf\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\calista\\.android\\build-cache\\60637e3bbc11d02cdc5f5d17e8a90b33be949cdf\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\calista\\.android\\build-cache\\60637e3bbc11d02cdc5f5d17e8a90b33be949cdf\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\snackbar.xml",
+        "source": "C:\\Users\\calista\\.android\\build-cache\\c4412e5c5921e04edd28af490b551957789bb8a1\\output\\res\\layout\\snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\calista\\.android\\build-cache\\60637e3bbc11d02cdc5f5d17e8a90b33be949cdf\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\calista\\.android\\build-cache\\60637e3bbc11d02cdc5f5d17e8a90b33be949cdf\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\calista\\.android\\build-cache\\60637e3bbc11d02cdc5f5d17e8a90b33be949cdf\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\calista\\.android\\build-cache\\60637e3bbc11d02cdc5f5d17e8a90b33be949cdf\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\calista\\.android\\build-cache\\60637e3bbc11d02cdc5f5d17e8a90b33be949cdf\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_options.xml",
+        "source": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\src\\main\\res\\layout\\fragment_options.xml"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\calista\\.android\\build-cache\\60637e3bbc11d02cdc5f5d17e8a90b33be949cdf\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\dialog.xml",
+        "source": "C:\\Users\\calista\\.android\\build-cache\\c4412e5c5921e04edd28af490b551957789bb8a1\\output\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\calista\\.android\\build-cache\\60637e3bbc11d02cdc5f5d17e8a90b33be949cdf\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\calista\\.android\\build-cache\\60637e3bbc11d02cdc5f5d17e8a90b33be949cdf\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\options.xml",
+        "source": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\src\\main\\res\\layout\\options.xml"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\calista\\.android\\build-cache\\60637e3bbc11d02cdc5f5d17e8a90b33be949cdf\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\calista\\.android\\build-cache\\60637e3bbc11d02cdc5f5d17e8a90b33be949cdf\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_prefs.xml",
+        "source": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\src\\main\\res\\layout\\activity_prefs.xml"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\calista\\.android\\build-cache\\60637e3bbc11d02cdc5f5d17e8a90b33be949cdf\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\progress_dialog.xml",
+        "source": "C:\\Users\\calista\\.android\\build-cache\\c4412e5c5921e04edd28af490b551957789bb8a1\\output\\res\\layout\\progress_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\calista\\.android\\build-cache\\60637e3bbc11d02cdc5f5d17e8a90b33be949cdf\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\number_indicator_spinner.xml",
+        "source": "C:\\Users\\calista\\.android\\build-cache\\c4412e5c5921e04edd28af490b551957789bb8a1\\output\\res\\layout\\number_indicator_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\settings.xml",
+        "source": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\src\\main\\res\\layout\\settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\calista\\.android\\build-cache\\60637e3bbc11d02cdc5f5d17e8a90b33be949cdf\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\color_selector.xml",
+        "source": "C:\\Users\\calista\\.android\\build-cache\\c4412e5c5921e04edd28af490b551957789bb8a1\\output\\res\\layout\\color_selector.xml"
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\snackbar_show_animation.xml",
+        "source": "C:\\Users\\calista\\.android\\build-cache\\c4412e5c5921e04edd28af490b551957789bb8a1\\output\\res\\anim\\snackbar_show_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\calista\\.android\\build-cache\\60637e3bbc11d02cdc5f5d17e8a90b33be949cdf\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\calista\\.android\\build-cache\\60637e3bbc11d02cdc5f5d17e8a90b33be949cdf\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_main_hide_amination.xml",
+        "source": "C:\\Users\\calista\\.android\\build-cache\\c4412e5c5921e04edd28af490b551957789bb8a1\\output\\res\\anim\\dialog_main_hide_amination.xml"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\progress_indeterminate_animation.xml",
+        "source": "C:\\Users\\calista\\.android\\build-cache\\c4412e5c5921e04edd28af490b551957789bb8a1\\output\\res\\anim\\progress_indeterminate_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\calista\\.android\\build-cache\\60637e3bbc11d02cdc5f5d17e8a90b33be949cdf\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\calista\\.android\\build-cache\\60637e3bbc11d02cdc5f5d17e8a90b33be949cdf\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_root_hide_amin.xml",
+        "source": "C:\\Users\\calista\\.android\\build-cache\\c4412e5c5921e04edd28af490b551957789bb8a1\\output\\res\\anim\\dialog_root_hide_amin.xml"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\calista\\.android\\build-cache\\60637e3bbc11d02cdc5f5d17e8a90b33be949cdf\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\calista\\.android\\build-cache\\60637e3bbc11d02cdc5f5d17e8a90b33be949cdf\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\calista\\.android\\build-cache\\60637e3bbc11d02cdc5f5d17e8a90b33be949cdf\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_main_show_amination.xml",
+        "source": "C:\\Users\\calista\\.android\\build-cache\\c4412e5c5921e04edd28af490b551957789bb8a1\\output\\res\\anim\\dialog_main_show_amination.xml"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\calista\\.android\\build-cache\\60637e3bbc11d02cdc5f5d17e8a90b33be949cdf\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\snackbar_hide_animation.xml",
+        "source": "C:\\Users\\calista\\.android\\build-cache\\c4412e5c5921e04edd28af490b551957789bb8a1\\output\\res\\anim\\snackbar_hide_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\calista\\.android\\build-cache\\60637e3bbc11d02cdc5f5d17e8a90b33be949cdf\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_root_show_amin.xml",
+        "source": "C:\\Users\\calista\\.android\\build-cache\\c4412e5c5921e04edd28af490b551957789bb8a1\\output\\res\\anim\\dialog_root_show_amin.xml"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\calista\\.android\\build-cache\\60637e3bbc11d02cdc5f5d17e8a90b33be949cdf\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    }
+]

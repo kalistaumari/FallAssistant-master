@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_stat_reply.png",
+        "source": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\src\\main\\res\\drawable-xhdpi\\ic_action_stat_reply.png"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\drawer_shadow.9.png",
+        "source": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\src\\main\\res\\drawable-xhdpi\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_drawer.png",
+        "source": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\src\\main\\res\\drawable-xhdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_stat_share.png",
+        "source": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\src\\main\\res\\drawable-xhdpi\\ic_action_stat_share.png"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_thumbs_up_down_black_48dp.png",
+        "source": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\src\\main\\res\\drawable-xhdpi\\ic_thumbs_up_down_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\action_search.png",
+        "source": "C:\\Users\\calista\\Documents\\Tugas Akhir\\FallAssistant-master\\Application\\src\\main\\res\\drawable-xhdpi\\action_search.png"
+    }
+]
